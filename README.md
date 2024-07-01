@@ -1,4 +1,4 @@
-# Rotacion de sol y luna en un paisaje con OpenGL
+# Rotación de sol y luna en un paisaje con OpenGL
 
 Este proyecto muestra la animación de la rotación del sol y la luna como esferas, junto con nubes (representadas como modelos .obj) sobre un paisaje que incluye pasto realista, un árbol generado mediante un sistema L, animales (modelos .obj) y una casa (modelo .obj). El color del fondo se sincroniza y degrada según sea de día o de noche, y la iluminación se ajusta en consecuencia.
 
@@ -25,8 +25,15 @@ Este proyecto muestra la animación de la rotación del sol y la luna como esfer
 git clone https://github.com/flechita-veloz/Rotacion-de-sol-y-luna-en-un-paisaje-con-OpenGL.git
 cd Rotacion-de-sol-y-luna-en-un-paisaje-con-OpenGL
 ./grass
+```
 
-https://github.com/flechita-veloz/Rotacion-de-sol-y-luna-en-un-paisaje-con-OpenGL/assets/79392249/ad75b849-3bfe-46dd-a44e-38d56b3ae539
+
+https://github.com/flechita-veloz/Rotacion-de-sol-y-luna-en-un-paisaje-con-OpenGL/assets/79392249/9d6f8eea-5012-4239-b8c7-83eafee02fc6
+
+
+
+
+
 
 
 
