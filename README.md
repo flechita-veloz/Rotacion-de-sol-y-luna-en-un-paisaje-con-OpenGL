@@ -24,4 +24,10 @@ Este proyecto muestra la animación de la rotación del sol y la luna como esfer
 ```
 git clone https://github.com/flechita-veloz/Rotacion-de-sol-y-luna-en-un-paisaje-con-OpenGL.git
 cd Rotacion-de-sol-y-luna-en-un-paisaje-con-OpenGL
-./grass```
+./grass
+
+https://github.com/flechita-veloz/Rotacion-de-sol-y-luna-en-un-paisaje-con-OpenGL/assets/79392249/ad75b849-3bfe-46dd-a44e-38d56b3ae539
+
+
+
+
